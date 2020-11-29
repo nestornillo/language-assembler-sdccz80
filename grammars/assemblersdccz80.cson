@@ -1,0 +1,25 @@
+'scopeName': 'source.assembler-sdccz80'
+'name': 'Z80 Assembler'
+'fileTypes': [
+  's'
+]
+'patterns': [
+  {
+     'begin': ';'
+     'end': '\\n'
+     'name': 'comment.line.assembler-sdccz80'
+  }
+  {
+      'match': '(^|\\s{1,})\\.(?i:(area|org|db|dw|dd|ds|include|macro|endm|rept|module|globl))\\s{1,}'
+      'name': 'keyword.control.assembler-sdccz80'
+  }
+  {
+     'match': '(^|\\s+)(?i:(adc|add|and|bit|call|ccf|cp|cpd|cpdr|cpi|cpir|cpl|daa|dec|di|djnz|ei|ex|exx|halt|im|in|inc|ind|indr|ini|inir|jp|jr|ld|ldd|lddr|ldi|ldir|neg|nop|or|otdr|otir|out|outd|outi|pop|push|res|ret|reti|retn|rl|rla|rlc|rlca|rld|rr|rra|rrc|rrca|rrd|rst|sbc|scf|set|sla|sra|srl|sub|xor))\\s{1,}'
+     'name': 'constant.language.assembler-sdccz80'
+
+  }
+  {
+     'match': '\\w+:{1,2}\\s'
+     'name': 'support.function.assembler-sdccz80'
+  }
+]

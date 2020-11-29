@@ -1,0 +1,4 @@
+'.source.assembler-sdccz80':
+  'editor':
+    'commentStart': ';; '
+    'foldEndPattern': '$'

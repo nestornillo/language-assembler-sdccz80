@@ -8,10 +8,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestornillo/language-assembler-sdccz80.git"
+    "url": "git+ttps://github.com/nestornillo/language-assembler-sdccz80.git"
   },
   "bugs": {
-    "url": "git+https://github.com/nestornillo/language-assembler-sdccz80/issues"
+    "url": "https://github.com/nestornillo/language-assembler-sdccz80/issues"
   },
   "license": "MIT"
 }

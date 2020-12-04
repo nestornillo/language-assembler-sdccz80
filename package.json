@@ -7,7 +7,6 @@
   },
   "dependencies": {},
   "repository": {
-    "type": "git",
     "url": "https://github.com/nestornillo/language-assembler-sdccz80"
   },
   "bugs": {

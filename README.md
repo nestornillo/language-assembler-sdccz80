@@ -1,3 +1,3 @@
 # language-assembler-sdccz80 package
 
-Simple syntax highlighting for Z80 assembler as used in SDCC. (ASZ80)
+Simple Z80 assembler syntax highlighting for Atom as used in SDCC. (ASZ80)

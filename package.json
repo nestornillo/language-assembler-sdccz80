@@ -1,16 +1,14 @@
-{
-  "name": "language-assembler-sdccz80",
-  "version": "0.0.0",
-  "description": "SDCC Z80 Assembler (ASZ80) syntax highlighting for Atom",
   "engines": {
-    "atom": "*"
+    "atom": ">0.50.0"
   },
-  "dependencies": {},
+  "license": "MIT",
+  "name": "language-assembler-sdccz80",
+   "description": "SDCC Z80 Assembler (ASZ80) syntax highlighting for Atom",
+  "private": true,
   "repository": {
-    "url": "https://github.com/nestornillo/language-assembler-sdccz80"
+    "type": "git",
+    "url": "git+https://github.com/nestornillo/language-assembler-sdccz80"
   },
-  "bugs": {
-    "url": "https://github.com/nestornillo/language-assembler-sdccz80/issues"
-  },
-  "license": "MIT"
+  "version": "0.0.0"
 }
+

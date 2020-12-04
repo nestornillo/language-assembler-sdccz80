@@ -1,7 +1,7 @@
 {
   "name": "language-assembler-sdccz80",
   "version": "0.0.0",
-  "description": "SDCC Z80 Assembler (ASZ80) syntax highlighting",
+  "description": "SDCC Z80 Assembler (ASZ80) syntax highlighting for Atom",
   "engines": {
     "atom": "*"
   },

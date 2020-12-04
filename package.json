@@ -8,7 +8,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nestornillo/language-assembler-sdccz80.git"
+    "url": "git+https://github.com/nestornillo/language-assembler-sdccz80"
   },
   "bugs": {
     "url": "https://github.com/nestornillo/language-assembler-sdccz80/issues"

@@ -1,5 +1,7 @@
- {
-	"engines": {"atom": ">=1.0.0 <2.0.0"},
+{
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
 	"license": "MIT",
 	"name": "language-assembler-sdccz80",
 	"description": "SDCC Z80 Assembler (ASZ80) syntax highlighting for Atom",
@@ -8,6 +10,5 @@
 		"type": "git",
 		"url": "git+https://github.com/nestornillo/language-assembler-sdccz80"
 	},
-	"version": "0.0.0"
+	"version": "0.1.0"
 }
-

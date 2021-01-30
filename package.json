@@ -1,7 +1,5 @@
  {
-	"engines": {
-		"atom": ">0.50.0"
-	},
+	"engines": {"atom": ">=1.0.0 <2.0.0"},
 	"license": "MIT",
 	"name": "language-assembler-sdccz80",
 	"description": "SDCC Z80 Assembler (ASZ80) syntax highlighting for Atom",
